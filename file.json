@@ -1,5 +1,13 @@
-{
+ {
     "disclosures": [],
     "domains": [
+      {
+        "domain": "fivecellgroup.com",
+        "use": "Corporate website, privacy policy and legitimate interest disclosures. No device storage or access."
+      },
+      {
+        "domain": "*.fivecellgroup.com",
+        "use": "Server-to-server receipt and processing of advertising data from supply partners for the Alpha Platform. No device storage or access, no client-side tags or pixels."
+      }
     ]
-}
+  }
